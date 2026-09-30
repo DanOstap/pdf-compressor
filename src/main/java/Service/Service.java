@@ -60,6 +60,6 @@ public class Service{
     }
     public void  Print_Info (){
         System.out.println("File had " +file_start_size  + " bytes");
-        System.out.println("File have " + file_end_size + " bytes");
+        System.out.println("Now File have " + file_end_size + " bytes");
     }
 }
